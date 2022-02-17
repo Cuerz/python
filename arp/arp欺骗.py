@@ -2,7 +2,6 @@
 import time
 from scapy.all import *
 
-
 def main():
     gatewayIP = ''      #网关
     victimIP = ''       #受害者ip
